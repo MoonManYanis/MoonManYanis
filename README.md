@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MoonManYanis
+- 👋 yo, I’m @MoonManYanis
 - 👀 I’m interested in making discord bots, making websites and games
-- 🌱 I’m currently learning HTML,CSS,Javascript,Python,C#,C++ and C
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on making projects, I'm looking for buddies
 - 📫 How to reach me :
 - Discord : moonmanizcool
